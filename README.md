@@ -1,3 +1,3 @@
 voter_sim
 ============
-voter_simF is the final working version!
+voter_simF.rb is the final working version!
